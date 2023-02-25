@@ -1,0 +1,1202 @@
+[
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "408,44"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,46"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "39,85"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "26,03"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "452,91"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "11,65"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "44,18"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "28,88"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,09"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "375,82"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,73"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "36,66"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "24,02"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "398,58"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,46"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "38,86"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "25,45"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "420,01"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,84"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "40,96"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "26,82"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "382,73"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,99"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "37,31"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "24,42"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "374,71"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,73"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "36,56"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "23,96"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "359,6"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,39999999999999"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "35,09"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "22,95"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "399,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,46"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "38,93"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "25,49"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "371,42"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,54"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "36,22"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "23,66"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "364,18"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,52999999999999"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "35,5"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "23,22"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "406,42"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,46"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "39,68"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "25,91"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "364,63"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "9,53"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "35,57"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "23,27"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "397,53"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "10,46"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "38,77"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "25,4"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,08"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "324,58"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,42"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "31,66"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "20,7"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "344,56"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,91"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "33,59"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "21,97"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "330,72"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,58"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "32,25"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "21,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "323,74"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,42"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "31,58"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "20,67"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "327,61"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,45"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "31,95"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "20,87"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "340,55"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,72"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "33,22"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "21,75"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "317,61"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,25"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "30,99"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "20,3"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "337,52"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,71999999999999"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "32,93"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "21,56"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,07"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "320,69"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "8,25"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "31,29"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "20,47"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "mensaje": "00",
+    "mensajen": "00",
+    "actividaddescripcion": "fabricación",
+    "minutos": "293,78"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "mensaje": 12,
+    "mensajen": 46,
+    "actividaddescripcion": "carga de máquina",
+    "minutos": "7,45"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "mensaje": 41,
+    "mensajen": 41,
+    "actividaddescripcion": "caída del automático",
+    "minutos": "28,65"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "mensaje": 44,
+    "mensajen": 57,
+    "actividaddescripcion": "máquina en espera",
+    "minutos": "18,69"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "mensaje": 90,
+    "mensajen": 47,
+    "actividaddescripcion": "pendiente de información",
+    "minutos": "0,06"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "molde": "NULL",
+    "ciclos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E1",
+    "ciclos": 59
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "molde": "INT.C41_E2",
+    "ciclos": 60
+  }
+]

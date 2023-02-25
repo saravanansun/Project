@@ -1,0 +1,15 @@
+[
+  {
+    "puesto": "00H35 WATERJET 16",
+    "idpuesto": "00H35",
+    "fecha": "2022-09-28 00:00:00.000",
+    "turno": 2,
+    "incentivominimo": 50,
+    "incentivomaximo": 85,
+    "objetivouso": 80,
+    "produccionp": "21071,5",
+    "planificadoh": 8,
+    "produccionh": "1685,7",
+    "utilizacionp": 100
+  }
+]
