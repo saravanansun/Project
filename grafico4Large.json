@@ -1,0 +1,268 @@
+[
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 1,
+    "persona": "101744 Rastrollo Grajera, David",
+    "minutos": "478,8"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 2,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-11 00:00:00.000",
+    "turno": 3,
+    "persona": "100430 Pedro  Miguel Chico Gonzalez",
+    "minutos": "479,47"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": "479,72"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 1,
+    "persona": "101744 Rastrollo Grajera, David",
+    "minutos": "479,55"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": "478,73"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 2,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "persona": "100430 Pedro  Miguel Chico Gonzalez",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-12 00:00:00.000",
+    "turno": 3,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": 0
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": "478,63"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 1,
+    "persona": "101744 Rastrollo Grajera, David",
+    "minutos": "478,85"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": "474,77"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 2,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": "474,52"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-13 00:00:00.000",
+    "turno": 3,
+    "persona": "100430 Pedro  Miguel Chico Gonzalez",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 1,
+    "persona": "101744 Rastrollo Grajera, David",
+    "minutos": "175,58"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 2,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": "478,47"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-14 00:00:00.000",
+    "turno": 3,
+    "persona": "100430 Pedro  Miguel Chico Gonzalez",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": "478,67"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 1,
+    "persona": "101744 Rastrollo Grajera, David",
+    "minutos": "478,52"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "persona": "100817 Augusto Fernando Gonti Tello",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 2,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-15 00:00:00.000",
+    "turno": 3,
+    "persona": "100430 Pedro  Miguel Chico Gonzalez",
+    "minutos": "199,33"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": "343,9"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 1,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": "343,8"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 2,
+    "persona": "NULL",
+    "minutos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-18 00:00:00.000",
+    "turno": 3,
+    "persona": "NULL",
+    "minutos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 1,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": 480
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 2,
+    "persona": "NULL",
+    "minutos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-19 00:00:00.000",
+    "turno": 3,
+    "persona": "NULL",
+    "minutos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "persona": "100917 Serradilla Garcia Francisco",
+    "minutos": "101,38"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 1,
+    "persona": "100952 Diaz Ciudad Gema",
+    "minutos": "101,38"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 2,
+    "persona": "NULL",
+    "minutos": "NULL"
+  },
+  {
+    "puesto": "00H35 WATERJET 16",
+    "fecha": "2022-07-20 00:00:00.000",
+    "turno": 3,
+    "persona": "NULL",
+    "minutos": "NULL"
+  }
+]
