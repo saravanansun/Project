@@ -1,0 +1,74 @@
+[
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "M",
+    "TiempoTrabajo": 355.05,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.7396875
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "T",
+    "TiempoTrabajo": 365.966666666667,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.762430555555556
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "N",
+    "TiempoTrabajo": 375.316666666667,
+    "TiempoTotal": 455.083333333333,
+    "Disponibilidad": 0.824720747115913
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "M",
+    "TiempoTrabajo": 360.883333333333,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.751840277777778
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "T",
+    "TiempoTrabajo": 374.65,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.780520833333333
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "N",
+    "TiempoTrabajo": 401.25,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.8359375
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "M",
+    "TiempoTrabajo": 361.05,
+    "TiempoTotal": 479.416666666667,
+    "Disponibilidad": 0.753102729010951
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "T",
+    "TiempoTrabajo": 376.25,
+    "TiempoTotal": 480,
+    "Disponibilidad": 0.783854166666667
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "N",
+    "TiempoTrabajo": 361.483333333333,
+    "TiempoTotal": 468.05,
+    "Disponibilidad": 0.772317772317772
+  }
+]

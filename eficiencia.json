@@ -1,0 +1,56 @@
+[
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "M",
+    "Eficiencia": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "T",
+    "Eficiencia": 0.93656284055424
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "N",
+    "Eficiencia": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "M",
+    "Eficiencia": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "T",
+    "Eficiencia": 0.887500240962232
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "N",
+    "Eficiencia": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "M",
+    "Eficiencia": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "T",
+    "Eficiencia": 0.990855026566999
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "N",
+    "Eficiencia": 1
+  }
+]
