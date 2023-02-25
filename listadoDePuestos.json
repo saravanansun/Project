@@ -1,0 +1,330 @@
+[
+  {
+    "id": "00A01",
+    "name": "7500A01 CARDA COMES",
+    "actividad": "44 máquina en espera",
+    "desde": "22:19",
+    "min": 29,
+    "rto": 88
+  },
+  {
+    "id": "00A02",
+    "name": "7500A02 CARDA MASIAS",
+    "actividad": "44 máquina en espera",
+    "desde": "22:41",
+    "min": 7,
+    "rto": "87,2"
+  },
+  {
+    "id": "00A04",
+    "name": "7500A04 CARDA PROPYLAT",
+    "actividad": "90 pendiente de información",
+    "desde": "15:20",
+    "min": 448,
+    "rto": 0
+  },
+  {
+    "id": "00A06",
+    "name": "7500A06 CARDA PROPYLAT 2",
+    "actividad": "11 limpieza",
+    "desde": "22:34",
+    "min": 14,
+    "rto": 85
+  },
+  {
+    "id": "00A18",
+    "name": "7500A18 LIN.7.MOLD.PROPYLAT",
+    "actividad": "00 fabricación",
+    "desde": "22:31",
+    "min": 17,
+    "rto": "84,1"
+  },
+  {
+    "id": "00A19",
+    "name": "7500A19 LIN.6.MOLD.PROPYLAT",
+    "actividad": "90 pendiente de información",
+    "desde": "15:59",
+    "min": 409,
+    "rto": 0
+  },
+  {
+    "id": "00A20",
+    "name": "7500A20 LIN.1.MOLD.PROPYLAT",
+    "actividad": "00 fabricación",
+    "desde": "21:26",
+    "min": 82,
+    "rto": "81,4"
+  },
+  {
+    "id": "00A21",
+    "name": "7500A21 LIN.2.MOLD.PROPYLAT",
+    "actividad": "00 fabricación",
+    "desde": "22:23",
+    "min": 25,
+    "rto": "84,4"
+  },
+  {
+    "id": "00A24",
+    "name": "7500A24 LIN.MOLD.BERLIN",
+    "actividad": "41 caáda del automático",
+    "desde": "22:46",
+    "min": 2,
+    "rto": "49,8"
+  },
+  {
+    "id": "00A26",
+    "name": "7500A26 LIN.5.MOLD.PROPYLAT",
+    "actividad": "41 caáda del automático",
+    "desde": "16:10",
+    "min": 398,
+    "rto": 0
+  },
+  {
+    "id": "00A27",
+    "name": "7500A27 LIN.3.MOLD.PROPYLAT",
+    "actividad": "10 cambio de materiales",
+    "desde": "22:38",
+    "min": 10,
+    "rto": "29,3"
+  },
+  {
+    "id": "00A28",
+    "name": "7500A28 LIN.MOLD. INSONOROS",
+    "actividad": "90 pendiente de información",
+    "desde": "15:15",
+    "min": "1,893",
+    "rto": 0
+  },
+  {
+    "id": "00A29",
+    "name": "7500A29 LIN.4.MOLD.PROPYLAT",
+    "actividad": "00 fabricación",
+    "desde": "22:10",
+    "min": 38,
+    "rto": "76,1"
+  },
+  {
+    "id": "00A35",
+    "name": "7500A35 WATERJET 6",
+    "actividad": "11 limpieza",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00A39",
+    "name": "7500A39 WATERJET 10",
+    "actividad": "40 incidencia en proceso",
+    "desde": "19:46",
+    "min": 182,
+    "rto": "0,4"
+  },
+  {
+    "id": "00A65",
+    "name": "7500A65 SOLDADORA A04",
+    "actividad": "63 no hay turno",
+    "desde": "7:15",
+    "min": 933,
+    "rto": "NaN"
+  },
+  {
+    "id": "00A68",
+    "name": "7500A68 SOLDADORA GEAF",
+    "actividad": "63 no hay turno",
+    "desde": "7:15",
+    "min": "3,813",
+    "rto": "NaN"
+  },
+  {
+    "id": "00A69",
+    "name": "7500A69 SOLDADORA SCHIMAHER",
+    "actividad": "00 fabricación",
+    "desde": "22:46",
+    "min": 2,
+    "rto": "71,8"
+  },
+  {
+    "id": "00A70",
+    "name": "7500A70 SOLDADORA SCHIMAHER",
+    "actividad": "00 fabricación",
+    "desde": "22:47",
+    "min": 1,
+    "rto": "80,6"
+  },
+  {
+    "id": "00A99",
+    "name": "7500A99 PR.100TM. OLBRICH",
+    "actividad": "00 fabricación",
+    "desde": "22:47",
+    "min": 1,
+    "rto": "82,3"
+  },
+  {
+    "id": "00H30",
+    "name": "7500H30 WATERJET 11",
+    "actividad": "63 no hay turno",
+    "desde": "23:15",
+    "min": "1,413",
+    "rto": "NaN"
+  },
+  {
+    "id": "00H31",
+    "name": "7500H31 WATERJET 12",
+    "actividad": "11 limpieza",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00H32",
+    "name": "7500H32 WATERJET 13",
+    "actividad": "90 pendiente de información",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00H33",
+    "name": "7500H33 WATERJET 14",
+    "actividad": "90 pendiente de información",
+    "desde": "16:01",
+    "min": 407,
+    "rto": 0
+  },
+  {
+    "id": "00H34",
+    "name": "7500H34 WATERJET 15",
+    "actividad": "42 corte por emergencia",
+    "desde": "22:42",
+    "min": 6,
+    "rto": "73,3"
+  },
+  {
+    "id": "00H35",
+    "name": "7500H35 WATERJET 16",
+    "actividad": "41 caáda del automático",
+    "desde": "22:42",
+    "min": 6,
+    "rto": "26,2"
+  },
+  {
+    "id": "00H42",
+    "name": "7500H42 TROQ EPILA MAGNA",
+    "actividad": "11 limpieza",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00H44",
+    "name": "7500H44 PRENSA R+S",
+    "actividad": "00 fabricación",
+    "desde": "22:47",
+    "min": 1,
+    "rto": "30,6"
+  },
+  {
+    "id": "00H47",
+    "name": "7500H47 PRENSA PERSICO",
+    "actividad": "63 no hay turno",
+    "desde": "15:15",
+    "min": 453,
+    "rto": "NaN"
+  },
+  {
+    "id": "00H48",
+    "name": "7500H48 PRENSA R+S ALFOMBRAS",
+    "actividad": "00 fabricación",
+    "desde": "22:47",
+    "min": 1,
+    "rto": 76
+  },
+  {
+    "id": "00H49",
+    "name": "7500H49 TROQUELADORS H49",
+    "actividad": "00 fabricación",
+    "desde": "22:47",
+    "min": 1,
+    "rto": "79,1"
+  },
+  {
+    "id": "00H52",
+    "name": "7500H52 PR.FRIA 300.TM",
+    "actividad": "63 no hay turno",
+    "desde": "7:15",
+    "min": "3,813",
+    "rto": "NaN"
+  },
+  {
+    "id": "00H62",
+    "name": "7500H62 SOLDADORA BRANSON",
+    "actividad": "41 caáda del automático",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00M35",
+    "name": "7500M35 CONF BANDEJAS P1MT",
+    "actividad": "44 máquina en espera",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00M36",
+    "name": "7500M36 CONF BANDEJAS P1MO",
+    "actividad": "44 máquina en espera",
+    "desde": "22:47",
+    "min": 1,
+    "rto": 4
+  },
+  {
+    "id": "00M38",
+    "name": "7500M38 TROQ/MONT.BAN SE380",
+    "actividad": "90 pendiente de información",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "00M40",
+    "name": "7500M40 SOLDADO PROT.ESQUIN",
+    "actividad": "63 no hay turno",
+    "desde": "15:15",
+    "min": 453,
+    "rto": "NaN"
+  },
+  {
+    "id": "00M41",
+    "name": "7500M41 ACABADO SE316",
+    "actividad": "90 pendiente de información",
+    "desde": "15:15",
+    "min": 453,
+    "rto": 0
+  },
+  {
+    "id": "0RM01",
+    "name": "750RM01 MOLINO 1",
+    "actividad": "00 fabricación",
+    "desde": "15:15",
+    "min": 453,
+    "rto": "94,4"
+  },
+  {
+    "id": "0RM02",
+    "name": "750RM02 MOLINO 2",
+    "actividad": "00 fabricación",
+    "desde": "15:15",
+    "min": 453,
+    "rto": "94,4"
+  },
+  {
+    "id": "0RM03",
+    "name": "750RM03 MOLINO 3",
+    "actividad": "00 fabricación",
+    "desde": "15:15",
+    "min": 453,
+    "rto": "94,4"
+  }
+]
