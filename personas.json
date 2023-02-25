@@ -1,0 +1,116 @@
+[
+  {
+    "puesto": "0A24 LIN.MOLD.BERLIN",
+    "persona": "Reyes Morales Pilar",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0A24 LIN.MOLD.BERLIN",
+    "persona": "Negrillo Sanchez Felipe",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0A29 LIN.4.MOLD.PROPYLAT",
+    "persona": "Baena Fuentes, Jose",
+    "desde": "7:16",
+    "minutos": 392
+  },
+  {
+    "puesto": "0A29 LIN.4.MOLD.PROPYLAT",
+    "persona": "Martinez Gonzalez Mª Jose",
+    "desde": "7:16",
+    "minutos": 392
+  },
+  {
+    "puesto": "0A70 SOLDADORA SCHIMAHER",
+    "persona": "!!!Codigo UNIVERSAL",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0A99 PR.100TM. OLBRICH",
+    "persona": "Bravo  Mena  Jose  Manuel",
+    "desde": "10:39",
+    "minutos": 192
+  },
+  {
+    "puesto": "0A99 PR.100TM. OLBRICH",
+    "persona": "Macarro Labrador Manuel",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0A99 PR.100TM. OLBRICH",
+    "persona": "Gomez Iñiguez David",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0H34 WATERJET 15",
+    "persona": "Higuera  Sanchez  Sergio",
+    "desde": "7:16",
+    "minutos": 392
+  },
+  {
+    "puesto": "0H34 WATERJET 15",
+    "persona": "Maria Herta",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0H34 WATERJET 15",
+    "persona": "Daniela Gaita",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0H48 PRENSA R+S ALFOMBRAS",
+    "persona": "Jimenez Ojeda, Jose Miguel",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "0H48 PRENSA R+S ALFOMBRAS",
+    "persona": "Sanchez Gonzalez Victor Manuel",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "2A01 CARDA COMES",
+    "persona": "Dominguez  Moreno  David",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "2A02 CARDA MASIAS",
+    "persona": "Gomez Palacios Samuel",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "2A04 CARDA PROPYLAT",
+    "persona": "Rosca Gheorghe Precup",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "2A04 CARDA PROPYLAT",
+    "persona": "Fuentes Jimenez Irene",
+    "desde": "7:15",
+    "minutos": 393
+  },
+  {
+    "puesto": "2A06 CARDA PROPYLAT 2",
+    "persona": "Villa  Gallego  Alberto",
+    "desde": "7:16",
+    "minutos": 392
+  },
+  {
+    "puesto": "2A06 CARDA PROPYLAT 2",
+    "persona": "Jesús Díaz de Yela",
+    "desde": "7:15",
+    "minutos": 393
+  }
+]
