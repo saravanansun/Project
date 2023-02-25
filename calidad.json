@@ -1,0 +1,74 @@
+[
+  {
+    "enddate": "16-09-22",
+    "id set": "00A18",
+    "Shift": "M",
+    "GoodPieces": 1034,
+    "Total Pieces": 1041,
+    "Quality": 0.993275696445725
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00A18",
+    "Turn": "T",
+    "GoodPieces": 776,
+    "Total Pieces": 777,
+    "Quality": 0.998712998712999
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00A18",
+    "Shift": "N",
+    "GoodPieces": 1087,
+    "Total Pieces": 1091,
+    "Quality": 0.996333638863428
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00A70",
+    "Shift": "M",
+    "GoodPieces": 989,
+    "Total Pieces": 995,
+    "Quality": 0.993969849246231
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00A70",
+    "Turn": "T",
+    "GoodPieces": 755,
+    "Total Pieces": 755,
+    "Quality": 1
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00A70",
+    "Shift": "N",
+    "GoodPieces": 991,
+    "Total Pieces": 994,
+    "Quality": 0.996981891348089
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00H49",
+    "Shift": "M",
+    "GoodPieces": 1103,
+    "Total Pieces": 1110,
+    "Quality": 0.993693693693694
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00H49",
+    "Turn": "T",
+    "GoodPieces": 845,
+    "Total Pieces": 845,
+    "Quality": 1
+  },
+  {
+    "enddate": "16-09-22",
+    "id set": "00H49",
+    "Shift": "N",
+    "GoodPieces": 1144,
+    "Total Pieces": 1148,
+    "Quality": 0.996515679442509
+  }
+]
